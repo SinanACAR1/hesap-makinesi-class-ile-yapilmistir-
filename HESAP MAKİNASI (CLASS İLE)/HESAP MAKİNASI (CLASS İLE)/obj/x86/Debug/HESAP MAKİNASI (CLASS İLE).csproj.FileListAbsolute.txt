@@ -1,0 +1,8 @@
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\bin\Debug\HESAP MAKİNASI (CLASS İLE).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\bin\Debug\HESAP MAKİNASI (CLASS İLE).pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\HESAP MAKİNASI (CLASS İLE).csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\HESAP MAKİNASI (CLASS İLE).csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\HESAP MAKİNASI (CLASS İLE).exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\HESAP MAKİNASI (CLASS İLE)\HESAP MAKİNASI (CLASS İLE)\obj\x86\Debug\HESAP MAKİNASI (CLASS İLE).pdb
